@@ -1,4 +1,5 @@
-# Commit Standardization Guide This repository is a guide to help developers standardize their commit messages using the Conventional Commits concept.
+# Commit Standardization Guide 
+This repository is a guide to help developers standardize their commit messages using the Conventional Commits concept.
 
 ## Why Standardize Commits?
 - Understand the change history.

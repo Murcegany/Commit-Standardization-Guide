@@ -62,7 +62,7 @@ npx husky add .husky/commit-msg 'npx --no-install commitlint --edit "$1"'
 | `merge` | Merging changes from another branch | `merge: merge feature branch into main` |
 | `upgrade` | Upgrading dependencies or tools | `upgrade: upgrade version`
 | `dev` | Changes to development tools or environment settings | `dev: update local dev environment setup` |
-| `wip` | Work in progress  `wip: draft new feature for user profile` |
+| `wip` | Work in progress  | `wip: draft new feature for user profile` |
 | `ui` | Changes to user interface elements | `ui: update button style on login page` |
 | `db` | Changes related to database structure or migrations | `db: add 'name' column to users table` |
 | `api` | Changes related to API (new endpoints, updates) | `api: add endpoint to fetch user preferences` |
